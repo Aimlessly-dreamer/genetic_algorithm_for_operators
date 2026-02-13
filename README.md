@@ -11,5 +11,7 @@ The script keeps track of the best individual (with the lowest fitness) and its 
         
 Example for a row: The script find the operators between columns        
 
-<img width="375" height="256" src="https://github.com/user-attachments/assets/e57bfec2-0330-4f10-b1a8-5a37cede92f2" alt="imagen" style="display:block; margin:0 auto;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e57bfec2-0330-4f10-b1a8-5a37cede92f2" width="375" height="256" alt="imagen" />
+</p>        
 So for row (3): Column Result = column 2 (4), column 1 (7), column 4 (2) and column 3 (8)
